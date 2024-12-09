@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **amulyasshivakumar@gmail.com**
 
+- Want to know more about me [Check Out](https://portfolio-psi-navy-87.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/amulya-s-082904261/" target="_blank">
