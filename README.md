@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm AMULYA S KUMAR</h1>
 <h3 align="center">A developer by choice</h3>
 
-- 💬 Ask me about **ReactJS, SpringBoot**
+- 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **amulyasshivakumar@gmail.com**
 
