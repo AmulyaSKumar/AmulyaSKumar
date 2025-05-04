@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on [Vibesta](https://github.com/AmulyaSKumar/VIBESTA)
 
-- 🌱 I’m currently learning **D**
-
 - 👨‍💻 All of my projects are available at [https://github.com/AmulyaSKumar](https://github.com/AmulyaSKumar)
 
 - 💬 Ask me about **ReactJS, Flask**
