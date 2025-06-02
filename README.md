@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amulyaskumar" alt="amulyaskumar" /></a> </p>
 
-- 🔭 I’m currently working on [Vibesta](https://github.com/AmulyaSKumar/VIBESTA)
+- 🔭 I’m currently working on [Vibesta](https://github.com/AmulyaSKumar/VIBESTA) ,[CryptoLab](https://github.com/AmulyaSKumar/CryptoLab)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AmulyaSKumar](https://github.com/AmulyaSKumar)
 
